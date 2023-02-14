@@ -1,0 +1,6 @@
+framework module KYLocalDataManager {
+  umbrella header "KYLocalDataManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

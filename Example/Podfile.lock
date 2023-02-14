@@ -1,0 +1,16 @@
+PODS:
+  - KYLocalDataManager (0.1.0)
+
+DEPENDENCIES:
+  - KYLocalDataManager (from `../`)
+
+EXTERNAL SOURCES:
+  KYLocalDataManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KYLocalDataManager: e501d99a100876217293e3dd18e79c28cb401baf
+
+PODFILE CHECKSUM: 15a178ee22d0b90787cf125ab83afce4f4a572d8
+
+COCOAPODS: 1.11.3
